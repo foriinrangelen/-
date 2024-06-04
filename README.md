@@ -24,4 +24,5 @@ class Queue{
    size(){
        return this.rear- this.front
    }
+}
 ```
